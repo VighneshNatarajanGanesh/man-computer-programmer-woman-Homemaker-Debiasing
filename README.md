@@ -11,3 +11,5 @@ This problem was talked by a paper: [link to pdf](https://papers.nips.cc/paper/6
 * Section 1 deals with finding similarity of words. To find similarity between words we use cosine similarity on their word vectors. 
 * Section 2 deals with the task of word anology
 * Section 3 deals with debiasing word vectors.
+
+This notebook is deriver from the MOOC course [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) by deeplearning.ai
